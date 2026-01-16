@@ -9,7 +9,7 @@ Exo2 :
 
 L'écran affiche 1 car Python exécute le code d'un module une seule fois, lors du tout premier import.
 
-Le deuxième import est ignoré (Python utilise le module déjà en mémoire), donc x n'est pas incrémenté de nouveau.
+Le deuxième import est ignoré (Python utilise le module déjà en mémoire), donc x n'est pas incrémenté de nouveau.git
 
 Exo 3 :
 
